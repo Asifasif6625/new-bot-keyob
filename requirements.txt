@@ -1,4 +1,4 @@
-aiohttp
+
 git+https://github.com/subinps/pyrogram@inline-m
 tgcrypto
 motor==2.5.1
